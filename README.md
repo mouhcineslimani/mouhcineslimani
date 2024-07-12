@@ -26,24 +26,6 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
- 
-## Projets
-### Q-Fraud
-- Conception et mise en place d'une solution pour la détection de fraude en temps réel. Technologies utilisées : Spring Boot, Stack Kafka (Kafka Streams, Kafka Connect, KSQL), Docker, Git, Gradle, PostgreSQL.
-
-### Mailbridge Pro
-- Application Spring Boot et React permettant l'envoi d'emails individuels à un ensemble de destinataires. Intégration avec Gmail, Hotmail, et autres services de messagerie. Technologies : Spring Boot, React, MySQL.
-
-### CL Agency
-- Gestion des véhicules, des clients et des commandes avec une architecture de microservices. Technologies : Spring Boot, Spring WebFlux, Spring Cloud, Spring Security, H2, Angular.
-
-### Fidelio App
-- Solution de fidélisation client utilisant Reactjs, Node.js, Express.js, Javascript, Bootstrap, et MySQL.
- 
-### Store Online
-- Application de gestion de panier développée en Reactjs, Redux Toolkit, Styled Components et Fetch API. Intégration d'une API existante pour la gestion des produits.
-
-
 ## Certifications
 - Injaz el Maghreb
 - Seeds for the Future Morocco 2023
