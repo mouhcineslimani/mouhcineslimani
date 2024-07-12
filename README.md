@@ -59,19 +59,6 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 ### Store Online
 - Application de gestion de panier développée en Reactjs, Redux Toolkit, Styled Components et Fetch API. Intégration d'une API existante pour la gestion des produits.
 
-## Compétences personnelles
-- Esprit d'équipe
-- Empathie et écoute
-- Créativité
-- Capacité de résolution des problèmes
-- Adaptabilité
-- Présence
-
-## Langues
-- Français : B2
-- Anglais : B1
-- Arabe : C1
-- Tamazight : C1
 
 ## Certifications
 - Injaz el Maghreb
