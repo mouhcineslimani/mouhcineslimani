@@ -26,20 +26,7 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
-## Expérience professionnelle
-### Peaqock financials
-**Backend developer - Spring Boot**
-- Conception et déploiement d'une solution de détection de fraude basée sur Spring Boot et utilisant Kafka, Kafka Connect, Kafka Streams, KSQL, et MySQL pour la gestion des flux de données et l'application des schémas de fraude.
-
-### Innovstream
-**Développeur fullstack**
-- Conception et implantation d'une plate-forme d'apprentissage en ligne avec Moodle et intégration des fonctionnalités personnalisées en utilisant Laravel, Javascript, Ajax, HTML5, Bootstrap, CSS3, et MySQL.
-
-### Sama Design
-**Développeur fullstack**
-- Création de divers projets de développement web, notamment la gestion des bourses, des étudiants et des salons au Canada. Utilisation de Laravel, Javascript, Bootstrap pour le développement et la maintenance des applications web.
-
+ 
 ## Projets
 ### Q-Fraud
 - Conception et mise en place d'une solution pour la détection de fraude en temps réel. Technologies utilisées : Spring Boot, Stack Kafka (Kafka Streams, Kafka Connect, KSQL), Docker, Git, Gradle, PostgreSQL.
@@ -52,10 +39,7 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 
 ### Fidelio App
 - Solution de fidélisation client utilisant Reactjs, Node.js, Express.js, Javascript, Bootstrap, et MySQL.
-
-### Mon portfolio
-- Développé en Reactjs et CSS3 pour présenter mes projets, compétences et expériences de manière interactive et responsive. 
-
+ 
 ### Store Online
 - Application de gestion de panier développée en Reactjs, Redux Toolkit, Styled Components et Fetch API. Intégration d'une API existante pour la gestion des produits.
 
