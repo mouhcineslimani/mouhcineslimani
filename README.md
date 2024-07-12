@@ -7,9 +7,7 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 
 ### Langages de programmation
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 
 ### Frameworks et bibliothèques
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -25,23 +23,61 @@ Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Moham
 
 ### Outils et plateformes
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Autres compétences
-- Développement backend
-- Développement frontend
-- Microservices
-- Cloud Computing
+
+## Expérience professionnelle
+### Peaqock financials
+**Backend developer - Spring Boot**
+- Conception et déploiement d'une solution de détection de fraude basée sur Spring Boot et utilisant Kafka, Kafka Connect, Kafka Streams, KSQL, et MySQL pour la gestion des flux de données et l'application des schémas de fraude.
+
+### Innovstream
+**Développeur fullstack**
+- Conception et implantation d'une plate-forme d'apprentissage en ligne avec Moodle et intégration des fonctionnalités personnalisées en utilisant Laravel, Javascript, Ajax, HTML5, Bootstrap, CSS3, et MySQL.
+
+### Sama Design
+**Développeur fullstack**
+- Création de divers projets de développement web, notamment la gestion des bourses, des étudiants et des salons au Canada. Utilisation de Laravel, Javascript, Bootstrap pour le développement et la maintenance des applications web.
 
 ## Projets
-### Détection de Fraude
-Projet de détection de fraude utilisant Spring Boot. Les entités du projet incluent Rule, Item, History, Group, Field, CustomField, RuleAction, RuleCategory, et Transaction. Le projet génère une requête SQL dynamique pour appliquer les règles à toutes les transactions dans l'historique et retourne `id_transaction`, `score`, et une liste de `id_rules_applied`.
+### Q-Fraud
+- Conception et mise en place d'une solution pour la détection de fraude en temps réel. Technologies utilisées : Spring Boot, Stack Kafka (Kafka Streams, Kafka Connect, KSQL), Docker, Git, Gradle, PostgreSQL.
 
-### Moteur de Scoring pour la Détection de Fraude
-Rapport de master intitulé "Conception et Développement d'un Moteur de Scoring pour la Détection de Fraude". Le projet implique l'utilisation d'Apache Flink pour le calcul en temps réel.
+### Mailbridge Pro
+- Application Spring Boot et React permettant l'envoi d'emails individuels à un ensemble de destinataires. Intégration avec Gmail, Hotmail, et autres services de messagerie. Technologies : Spring Boot, React, MySQL.
+
+### CL Agency
+- Gestion des véhicules, des clients et des commandes avec une architecture de microservices. Technologies : Spring Boot, Spring WebFlux, Spring Cloud, Spring Security, H2, Angular.
+
+### Fidelio App
+- Solution de fidélisation client utilisant Reactjs, Node.js, Express.js, Javascript, Bootstrap, et MySQL.
+
+### Mon portfolio
+- Développé en Reactjs et CSS3 pour présenter mes projets, compétences et expériences de manière interactive et responsive. 
+
+### Store Online
+- Application de gestion de panier développée en Reactjs, Redux Toolkit, Styled Components et Fetch API. Intégration d'une API existante pour la gestion des produits.
+
+## Compétences personnelles
+- Esprit d'équipe
+- Empathie et écoute
+- Créativité
+- Capacité de résolution des problèmes
+- Adaptabilité
+- Présence
+
+## Langues
+- Français : B2
+- Anglais : B1
+- Arabe : C1
+- Tamazight : C1
+
+## Certifications
+- Injaz el Maghreb
+- Seeds for the Future Morocco 2023
 
 ## Contact
-- **Email**: [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn**: [Votre profil LinkedIn](https://www.linkedin.com/in/votre-profil/)
+- **Email**: [slimani.mouhcine.19@gmail.com](mailto:slimani.mouhcine.19@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mouhcine-slimani](https://www.linkedin.com/in/mouhcine-slimani)
+- **Portfolio**: [mouhcineslimani.github.io/ms-portfolio](https://mouhcineslimani.github.io/ms-portfolio)
