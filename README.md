@@ -1,7 +1,8 @@
 # Mouhcine Slimani
 
 ## À propos de moi
-Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Mohammed Ben Abdellah, titulaire d'une Licence en Systèmes d'Information et Génie Logiciel de la Faculté des Sciences Dhar El Mahraz à Fès. J'ai une passion pour les technologies JAVA, notamment Jakarta Enterprise Edition, Spring/Spring Boot, ainsi que pour les technologies web émergentes comme Node.js et Angular/React.
+
+Je suis un développeur backend - Spring boot chez @Peaqock. Je suis lauréat de Master Qualité Logicielle (MQL) à l'Université Sidi Mohammed Ben Abdellah, titulaire d'une Licence en Systèmes d'Information et Génie Logiciel de la Faculté des Sciences Dhar El Mahraz à Fès. J'ai une passion pour les technologies JAVA, notamment Jakarta Enterprise Edition, Spring/Spring Boot, ainsi que pour les technologies web émergentes comme Node.js et Angular/React.
 
 ## Compétences techniques
 
